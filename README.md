@@ -1,6 +1,8 @@
 # Babenko Dmitry
-### heartshapedbox
-JavaScrip / Python / Adobe Photoshop / Adobe InDesign
+### @heartshapedbox
+>JavaScrip / Python / Adobe Photoshop / Adobe InDesign
+>
+>Digital art
 
 <!---
 heartshapedbox/heartshapedbox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
