@@ -1,7 +1,9 @@
 # Babenko Dmitry
 #### @heartshapedbox
->JavaScrip / Python / Adobe Photoshop / Adobe InDesign
->
+>JavaScrip / Python
+
+>Adobe Photoshop / Adobe InDesign
+
 >Digital art
 
 <!---
