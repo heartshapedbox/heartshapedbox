@@ -8,7 +8,7 @@
 > 
 > #### Adobe Photoshop / Adobe InDesign
 
-[![heartshapedbox GitHub stats](https://github-readme-stats.vercel.app/api?username=heartshapedbox&custom_title=GitHub Stats&show_icons=true&theme=tokyonight )](https://github.com/heartshapedbox/github-readme-stats)
+[![heartshapedbox GitHub stats](https://github-readme-stats.vercel.app/api?username=heartshapedbox&custom_title=Stats&show_icons=true&theme=tokyonight )](https://github.com/heartshapedbox/github-readme-stats)
 
 <!---
 heartshapedbox/heartshapedbox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
