@@ -1,10 +1,10 @@
 # Babenko Dmitry
 #### @heartshapedbox
-> ## Web design / Web apps
+> ### Web design / Web apps
 >
 > #### Python / JavaScript / HTML / CSS / LESS
 
-> ## Digital art
+> ### Digital art
 > 
 > #### Adobe Photoshop / Adobe InDesign
 
