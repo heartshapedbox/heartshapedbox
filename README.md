@@ -1,5 +1,4 @@
 ### Babenko Dmitry 
-##### @heartshapedbox
 
 babenko.dmitry.mail@gmail.com
 
