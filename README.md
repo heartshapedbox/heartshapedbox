@@ -2,6 +2,8 @@
 ##### @heartshapedbox
 
 babenko.dmitry.mail@gmail.com
+https://t.me/BabenkoDmitry
+https://github.com/heartshapedbox
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 > ### Web design / Web apps
