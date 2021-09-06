@@ -10,7 +10,8 @@
 
 [![heartshapedbox GitHub stats](https://github-readme-stats.vercel.app/api?username=heartshapedbox&how_icons=true&theme=tokyonight )](https://github.com/heartshapedbox)
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heartshapedbox&layout=compact)](https://github.com/heartshapedbox)
-[![brush-pencil-site](https://github-readme-stats.vercel.app/api/pin/?username=heartshapedbox&repo=brush-pencil-site)](https://github.com/heartshapedbox)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=heartshapedbox)](https://github.com/heartshapedbox)
+
 
 
 <!---
