@@ -1,12 +1,4 @@
 ### Babenko Dmitry 
-
-babenko.dmitry.mail@gmail.com
-
-https://t.me/BabenkoDmitry
-
-https://github.com/heartshapedbox
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 > ### Web design / Web apps
 
 #### Python / JavaScript / HTML / CSS / LESS
@@ -14,6 +6,12 @@ https://github.com/heartshapedbox
 > ### Digital art
 
 #### Adobe Photoshop / Adobe InDesign
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+babenko.dmitry.mail@gmail.com
+
+https://t.me/BabenkoDmitry
+
+https://github.com/heartshapedbox
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [![heartshapedbox GitHub stats](https://github-readme-stats.vercel.app/api?username=heartshapedbox&how_icons=true&theme=tokyonight)](https://github.com/heartshapedbox)
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heartshapedbox&layout=compact&theme=tokyonight)](https://github.com/heartshapedbox)
