@@ -17,7 +17,7 @@ https://github.com/heartshapedbox
 <a href="https://github.com/heartshapedbox/rainy-night-city-syntax">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heartshapedbox&repo=rainy-night-city-syntax&theme=tokyonight&bg_color=110,0d1117,1a1b27&hide_border=true" />
 </a>
-<a href="https://github.com/heartshapedbox/night-ocean-waves-synta">
+<a href="https://github.com/heartshapedbox/night-ocean-waves-syntax">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heartshapedbox&repo=night-ocean-waves-syntax&theme=tokyonight&bg_color=110,0d1117,1a1b27&hide_border=true" />
 </a>
 <a href="https://github.com/heartshapedbox/python">
