@@ -2,7 +2,7 @@
 
 #### @heartshapedbox
 
-> #### Web design / Web apps: Python / JavaScript / HTML / CSS / LESS
+> #### Web design / Web apps: Python / JS / HTML / CSS / LESS
 > #### Digital art: Adobe Photoshop / Adobe InDesign
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 babenko.dmitry.mail@gmail.com
