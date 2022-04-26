@@ -5,7 +5,7 @@
 <br />
 
 ### Contacts:
-[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Gmail" width="22px" src="https://user-images.githubusercontent.com/27690717/165406796-e223c17a-1d76-4143-82f8-4761a29ac700.svg" />][gmail]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GitHub" width="22px" src="https://user-images.githubusercontent.com/27690717/165406689-a0b95749-585d-4354-a2dd-74a1f4521aed.svg" />][github]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
