@@ -1,4 +1,4 @@
-### Dmitry Babenko
+### Digital art / Web design / Code
 
 <br />
 
