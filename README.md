@@ -5,13 +5,19 @@
 > #### Web design / Web apps: Python / JS / HTML / CSS / LESS
 > #### Digital art: Adobe Photoshop / Adobe InDesign
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-babenko.dmitry.mail@gmail.com
+### Contacts:
 
-https://t.me/BabenkoDmitry
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="vibhorchaudhary | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
-https://twitter.com/BabenkoDmitry
-
-https://github.com/heartshapedbox
+[gmail]: babenko.dmitry.mail@gmail.com
+[linkedin]: https://www.linkedin.com/in/dmitry-babenko-%F0%9F%87%BA%F0%9F%87%A6-6aab3b168/
+[github]: https://github.com/heartshapedbox
+[twitter]: https://twitter.com/BabenkoDmitry
+[telegram]: https://t.me/BabenkoDmitry
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![heartshapedbox GitHub stats](https://github-readme-stats.vercel.app/api?username=heartshapedbox&custom_title=GitHubStats&show_icons=true&theme=tokyonight&bg_color=110,0d1117,1a1b27&hide_border=true)
