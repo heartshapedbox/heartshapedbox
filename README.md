@@ -33,4 +33,4 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Windows" width="26px" src="https://user-images.githubusercontent.com/27690717/165398060-e8ed5f5f-95df-4d08-b889-c316881a6525.png" />
 <img align="left" alt="macOS" width="26px" src="https://user-images.githubusercontent.com/27690717/165397260-a7462ff1-dfd9-49c4-bc4d-581e5765224c.png" />
 <img align="left" alt="DigitalOcean" width="26px" src="https://user-images.githubusercontent.com/27690717/165403205-92ff1c42-b015-4632-86b1-06a5c8bf638b.png" />
-<img align="left" alt="AWS" width="26px" src="https://user-images.githubusercontent.com/27690717/165403634-af8909e2-77c5-41ef-b2f6-efa1272a98d6.png" />
+<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
