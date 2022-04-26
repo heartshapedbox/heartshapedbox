@@ -1,10 +1,7 @@
 ### Babenko Dmitry
-
-#### @heartshapedbox
-
 > #### Web design / Web apps: Python / JS / HTML / CSS / LESS
 > #### Digital art: Adobe Photoshop / Adobe InDesign
-
+---------------------------------------------------------------------------------------------------------------------------
 <br />
 
 ### Contacts:
@@ -20,7 +17,7 @@
 [github]: https://github.com/heartshapedbox
 [twitter]: https://twitter.com/BabenkoDmitry
 [telegram]: https://t.me/BabenkoDmitry
-
+---------------------------------------------------------------------------------------------------------------------------
 <br />
 
 ![heartshapedbox GitHub stats](https://github-readme-stats.vercel.app/api?username=heartshapedbox&custom_title=GitHubStats&show_icons=true&theme=tokyonight&bg_color=110,0d1117,1a1b27&hide_border=true)
@@ -29,7 +26,7 @@
 heartshapedbox/heartshapedbox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+---------------------------------------------------------------------------------------------------------------------------
 <br />
 
 ### Languages and Tools:
