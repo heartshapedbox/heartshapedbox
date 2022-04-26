@@ -19,7 +19,7 @@
 
 <br />
 
-### GitHub stats:
+### GitHub Stats:
 ![heartshapedbox GitHub stats](https://github-readme-stats.vercel.app/api?username=heartshapedbox&custom_title=GitHubStats&show_icons=true&theme=tokyonight&bg_color=110,0d1117,1a1b27&hide_border=true)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heartshapedbox&layout=compact&theme=tokyonight&bg_color=110,0d1117,1a1b27&hide_border=true)
 
@@ -33,6 +33,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/27690717/165397681-55acb06c-1d02-4922-87ff-2b90f80f1e9f.png" />
 <img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/27690717/165401597-30d07762-d52b-4697-bbbf-79a0c8082cb5.png" />
 <img align="left" alt="Atom" width="26px" src="https://user-images.githubusercontent.com/27690717/165403951-e7f31325-6b36-4e76-9ce2-432142b0b3b0.png" />
+<img align="left" alt="Photoshop" width="26px" src="https://user-images.githubusercontent.com/27690717/165407728-7bcf1159-d8b4-404d-b249-9315b606069a.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/27690717/165402531-d97eef56-ccd5-44c0-849c-a9abd14c99bb.png" />
 <img align="left" alt="Windows" width="26px" src="https://user-images.githubusercontent.com/27690717/165398060-e8ed5f5f-95df-4d08-b889-c316881a6525.png" />
 <img align="left" alt="macOS" width="26px" src="https://user-images.githubusercontent.com/27690717/165397260-a7462ff1-dfd9-49c4-bc4d-581e5765224c.png" />
