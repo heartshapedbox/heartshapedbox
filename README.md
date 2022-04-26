@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Languages and Tools:
 <img align="left" alt="HTML" width="26px" src="https://user-images.githubusercontent.com/27690717/165398576-5283c2d8-6f1f-4c81-b817-0e6457db391f.png" />
-<img align="left" alt="CSS" width="26px" src="https://user-images.githubusercontent.com/27690717/165398679-5075c2a9-16aa-411c-8ff8-0eb68cadbf95.png" />
+<img align="left" alt="CSS" width="26px" src="https://user-images.githubusercontent.com/27690717/165399483-646ac1c1-1ec9-499d-be03-e87026ae890d.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/27690717/165398445-11f2293b-8b2e-403b-86ef-85d95152905f.png" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/27690717/165397681-55acb06c-1d02-4922-87ff-2b90f80f1e9f.png" />
