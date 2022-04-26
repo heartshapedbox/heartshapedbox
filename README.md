@@ -1,6 +1,4 @@
 ### Babenko Dmitry
-> #### Web design / Web apps: Python / JS / HTML / CSS / LESS
-> #### Digital art: Adobe Photoshop / Adobe InDesign
 
 <br />
 
