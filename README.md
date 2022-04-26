@@ -7,11 +7,18 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Contacts:
 
-[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />]babenko.dmitry.mail@gmail.com
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="vibhorchaudhary | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[gmail]: babenko.dmitry.mail@gmail.com
+[linkedin]: https://www.linkedin.com/in/dmitry-babenko-%F0%9F%87%BA%F0%9F%87%A6-6aab3b168/
+[github]: https://github.com/heartshapedbox
+[twitter]: https://twitter.com/BabenkoDmitry
+[telegram]: https://t.me/BabenkoDmitry
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![heartshapedbox GitHub stats](https://github-readme-stats.vercel.app/api?username=heartshapedbox&custom_title=GitHubStats&show_icons=true&theme=tokyonight&bg_color=110,0d1117,1a1b27&hide_border=true)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heartshapedbox&layout=compact&theme=tokyonight&bg_color=110,0d1117,1a1b27&hide_border=true)
@@ -33,9 +40,3 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="macOS" width="26px" src="https://user-images.githubusercontent.com/27690717/165397260-a7462ff1-dfd9-49c4-bc4d-581e5765224c.png" />
 <img align="left" alt="DigitalOcean" width="26px" src="https://user-images.githubusercontent.com/27690717/165403205-92ff1c42-b015-4632-86b1-06a5c8bf638b.png" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[gmail]: babenko.dmitry.mail@gmail.com
-[linkedin]: https://www.linkedin.com/in/dmitry-babenko-%F0%9F%87%BA%F0%9F%87%A6-6aab3b168/
-[github]: https://github.com/heartshapedbox
-[twitter]: https://twitter.com/BabenkoDmitry
-[telegram]: https://t.me/BabenkoDmitry
