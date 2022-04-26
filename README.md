@@ -26,6 +26,7 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="CSS" width="26px" src="https://user-images.githubusercontent.com/27690717/165400718-7aa854fc-22c0-46f8-8d5f-cf8e7fc3d2d1.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/27690717/165400083-a38f99ae-7029-423b-a49f-4f3001d596bd.png" />
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/27690717/165398445-11f2293b-8b2e-403b-86ef-85d95152905f.png" />
+<img align="left" alt="Atom" width="26px" src="https://user-images.githubusercontent.com/27690717/165402765-3b03a9ca-0771-4af0-a492-8e6dd1447392.png" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/27690717/165397681-55acb06c-1d02-4922-87ff-2b90f80f1e9f.png" />
 <img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/27690717/165401597-30d07762-d52b-4697-bbbf-79a0c8082cb5.png" />
 <img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/27690717/165402531-d97eef56-ccd5-44c0-849c-a9abd14c99bb.png" />
