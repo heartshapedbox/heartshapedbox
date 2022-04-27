@@ -32,7 +32,11 @@ Interested in digital art, design and coding.
 ----
 
 ### Languages & Tools
-<img align="left" alt="HTML" title="HTML" width="26px" src="https://user-images.githubusercontent.com/27690717/165400714-38f3eb60-5189-4163-9431-41eb906c1be6.png" />
+<img:hover
+    {
+      opacity: 0.3;
+      filter: alpha(opacity=30);
+    } align="left" alt="HTML" title="HTML" width="26px" src="https://user-images.githubusercontent.com/27690717/165400714-38f3eb60-5189-4163-9431-41eb906c1be6.png" />
 <img align="left" alt="CSS" title="CSS" width="26px" src="https://user-images.githubusercontent.com/27690717/165400718-7aa854fc-22c0-46f8-8d5f-cf8e7fc3d2d1.png" />
 <img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://user-images.githubusercontent.com/27690717/165400083-a38f99ae-7029-423b-a49f-4f3001d596bd.png" />
 <img align="left" alt="Python" title="Python" width="26px" src="https://user-images.githubusercontent.com/27690717/165398445-11f2293b-8b2e-403b-86ef-85d95152905f.png" />
