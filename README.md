@@ -6,9 +6,9 @@ Interested in digital art, design and coding.
 ### Connect with me
 [<img align="left" alt="Gmail" title="Gmail" width="26px" src="https://user-images.githubusercontent.com/27690717/165525918-f386181f-69a9-4c3b-943f-96695b1b7f61.png" />][gmail]
 [<img align="left" alt="LinkedIn" title="LinkedIn" width="26px" src="https://user-images.githubusercontent.com/27690717/165526165-ccb28e0c-6109-4b52-a3e9-314c72d5fa26.png" />][linkedin]
-[<img align="left" alt="GitHub" title="GitHub" width="26px" src="https://user-images.githubusercontent.com/27690717/165406689-a0b95749-585d-4354-a2dd-74a1f4521aed.svg" />][github]
+[<img align="left" alt="GitHub" title="GitHub" width="26px" src="https://user-images.githubusercontent.com/27690717/165527049-3cb708f2-47eb-45eb-be09-0b1c004e90e8.png" />][github]
 [<img align="left" alt="Twitter" title="Twitter" width="26px" src="https://user-images.githubusercontent.com/27690717/165526543-73507ee3-103d-40e4-a85b-0e51b7031e10.png" />][twitter]
-[<img align="left" alt="Telegram" title="Telegram" width="26px" src="https://user-images.githubusercontent.com/27690717/165407334-a2f9ea1a-281a-4cf6-b8fb-45676afe607d.svg" />][telegram]
+[<img align="left" alt="Telegram" title="Telegram" width="26px" src="https://user-images.githubusercontent.com/27690717/165526979-d7e8637a-1e6e-4d9a-bc40-baa18be72ced.png" />][telegram]
 
 [gmail]: mailto:babenko.dmitry.mail@gmail.com
 [linkedin]: https://www.linkedin.com/in/dmitry-babenko-%F0%9F%87%BA%F0%9F%87%A6-6aab3b168
