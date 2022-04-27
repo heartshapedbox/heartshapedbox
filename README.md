@@ -46,9 +46,7 @@ Interested in digital art, design and coding.
 <img align="left" alt="Photoshop" title="Adobe Photoshop" width="26px" src="https://user-images.githubusercontent.com/27690717/165407869-b475f554-afe6-4987-a182-efa4654ba231.png" />
 <img align="left" alt="InDesign" title="Adobe InDesign" width="26px" src="https://user-images.githubusercontent.com/27690717/165407926-072dbd2a-ba0e-4ad6-92ea-5b7437acee31.png" />
 <img align="left" alt="Terminal" title="Terminal" width="26px" src="https://user-images.githubusercontent.com/27690717/165402531-d97eef56-ccd5-44c0-849c-a9abd14c99bb.png" />
-<img hover {
-  background-color: yellow;
-} align="left" alt="macOS" title="macOS" width="26px" src="https://user-images.githubusercontent.com/27690717/165397260-a7462ff1-dfd9-49c4-bc4d-581e5765224c.png" />
+<img align="left" alt="macOS" title="macOS" width="26px" src="https://user-images.githubusercontent.com/27690717/165397260-a7462ff1-dfd9-49c4-bc4d-581e5765224c.png" />
 <img align="left" alt="Windows" title="Windows" width="26px" src="https://user-images.githubusercontent.com/27690717/165530945-512e8258-a13f-4f65-8ce3-ad673858de8e.png" />
 
 <!---
