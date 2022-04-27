@@ -5,7 +5,7 @@ Interested in digital art, design and coding.
 
 ### Connect with me
 [<img align="left" alt="Gmail" title="Gmail" width="26px" src="https://user-images.githubusercontent.com/27690717/165531107-5310cb17-9d30-4178-9823-a96f706d28c6.png" />][gmail]
-[<img align="left" alt="LinkedIn" title="LinkedIn" width="26px" src="https://user-images.githubusercontent.com/27690717/165531550-c149d2ba-b4ef-44c6-bf61-22ba622326da.png" />][linkedin]
+[<img align="left" alt="LinkedIn" title="LinkedIn" width="26px" src="https://user-images.githubusercontent.com/27690717/165531718-eaa257d6-c292-40e5-8371-67044869c899.png" />][linkedin]
 [<img align="left" alt="GitHub" title="GitHub" width="26px" src="https://user-images.githubusercontent.com/27690717/165531224-a567b819-6ee4-4460-bea0-d1dbb5bf4eac.png" />][github]
 [<img align="left" alt="Twitter" title="Twitter" width="26px" src="https://user-images.githubusercontent.com/27690717/165530791-cb5ac5fb-971c-4211-89b6-9ecde092c8b9.png" />][twitter]
 [<img align="left" alt="Telegram" title="Telegram" width="26px" src="https://user-images.githubusercontent.com/27690717/165527901-17c517d0-d0f2-4d22-bd6c-1612b10ad85a.png" />][telegram]
