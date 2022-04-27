@@ -39,8 +39,6 @@ Interested in digital art, design and coding.
 <img align="left" alt="Terminal" title="Terminal" width="26px" src="https://user-images.githubusercontent.com/27690717/165402531-d97eef56-ccd5-44c0-849c-a9abd14c99bb.png" />
 <img align="left" alt="macOS" title="macOS" width="26px" src="https://user-images.githubusercontent.com/27690717/165397260-a7462ff1-dfd9-49c4-bc4d-581e5765224c.png" />
 <img align="left" alt="Windows" title="Windows" width="26px" src="https://user-images.githubusercontent.com/27690717/165398060-e8ed5f5f-95df-4d08-b889-c316881a6525.png" />
-<img align="left" alt="DigitalOcean" title="DigitalOcean" width="26px" src="https://user-images.githubusercontent.com/27690717/165403205-92ff1c42-b015-4632-86b1-06a5c8bf638b.png" />
-<img align="left" alt="AWS" title="Amazon AWS" width="26px" src="https://user-images.githubusercontent.com/27690717/165408578-ae3a9fdf-04a8-4955-8e3c-0360bc29e759.png" />
 
 <!---
 heartshapedbox/heartshapedbox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
