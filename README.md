@@ -3,7 +3,7 @@
 [<img align="left" alt="LinkedIn" title="LinkedIn" width="26px" src="https://user-images.githubusercontent.com/27690717/165531718-eaa257d6-c292-40e5-8371-67044869c899.png" />][linkedin]
 [<img align="left" alt="Twitter" title="Twitter" width="26px" src="https://user-images.githubusercontent.com/27690717/165530791-cb5ac5fb-971c-4211-89b6-9ecde092c8b9.png" />][twitter]
 [<img align="left" alt="Telegram" title="Telegram" width="26px" src="https://user-images.githubusercontent.com/27690717/165527901-17c517d0-d0f2-4d22-bd6c-1612b10ad85a.png" />][telegram]
-[<img align="left" alt="Skype" title="Skype" width="26px" src="https://user-images.githubusercontent.com/27690717/165534799-b17b819c-438b-4a3a-97bc-303f2f62dc87.png" />][skype]
+[<img align="left" alt="Skype" title="Skype" width="26px" src="https://user-images.githubusercontent.com/27690717/165636854-58f6784f-bb26-4c15-a254-a232d072d8f0.png" />][skype]
 [<img align="left" alt="GitHub" title="GitHub" width="26px" src="https://user-images.githubusercontent.com/27690717/165533688-74e3a378-c77f-4b6b-b315-c84794cb0357.png" />][github]
 [<img align="left" alt="Pinteret" title="Pinteret" width="26px" src="https://user-images.githubusercontent.com/27690717/165534992-43eee375-af42-497a-bfc2-658b2992e029.png" />][pinteret]
 [<img align="left" alt="Dribble" title="Dribble" width="26px" src="https://user-images.githubusercontent.com/27690717/165535579-9fa81109-d73a-465d-b7e9-a1a3cb092a96.png" />][dribble]
