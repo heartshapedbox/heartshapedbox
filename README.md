@@ -1,7 +1,7 @@
 ### Digital art / Design / Code
->Interested in digital art, design and coding. 
+Interested in digital art, design and coding.
+
 >
---------------------------------------------------------
 
 ### Connect with me
 [<img align="left" alt="Gmail" title="Gmail" width="26px" src="https://user-images.githubusercontent.com/27690717/165532326-df1f6d81-3c04-48fe-9f2c-3ee0cf8d411a.png" />][gmail]
