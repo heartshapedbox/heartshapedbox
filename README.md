@@ -22,7 +22,6 @@ Interested in digital art, design and coding.
 [telegram]: https://t.me/BabenkoDmitry
 [skype]: https://join.skype.com/invite/ahRruuzbYjx6
 [pinteret]: https://pin.it/5VXs2m9
-[dribble]
 
 <br />
 
