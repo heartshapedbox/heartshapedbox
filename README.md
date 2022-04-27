@@ -1,6 +1,8 @@
 ### Digital art / Web design / Code
 Interested in digital art, design and coding. 
+
 --------------------------------------------------------
+
 <br />
 
 ### Connect with me
