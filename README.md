@@ -8,7 +8,7 @@ Interested in digital art, design and coding.
 [<img align="left" alt="LinkedIn" title="LinkedIn" width="26px" src="https://user-images.githubusercontent.com/27690717/165527152-14c49758-c6a6-4ba6-bb92-f16201888fa5.png" />][linkedin]
 [<img align="left" alt="GitHub" title="GitHub" width="26px" src="https://user-images.githubusercontent.com/27690717/165527049-3cb708f2-47eb-45eb-be09-0b1c004e90e8.png" />][github]
 [<img align="left" alt="Twitter" title="Twitter" width="26px" src="https://user-images.githubusercontent.com/27690717/165526543-73507ee3-103d-40e4-a85b-0e51b7031e10.png" />][twitter]
-[<img align="left" alt="Telegram" title="Telegram" width="26px" src="https://user-images.githubusercontent.com/27690717/165526979-d7e8637a-1e6e-4d9a-bc40-baa18be72ced.png" />][telegram]
+[<img align="left" alt="Telegram" title="Telegram" width="26px" src="https://user-images.githubusercontent.com/27690717/165527552-1a5e140d-7ed8-4fd0-905f-060133e1fc36.png" />][telegram]
 
 [gmail]: mailto:babenko.dmitry.mail@gmail.com
 [linkedin]: https://www.linkedin.com/in/dmitry-babenko-%F0%9F%87%BA%F0%9F%87%A6-6aab3b168
