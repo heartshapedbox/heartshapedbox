@@ -34,8 +34,8 @@ Interested in digital art, design and coding.
 <img align="left" alt="GitHub" title="GitHub" width="26px" src="https://user-images.githubusercontent.com/27690717/165397681-55acb06c-1d02-4922-87ff-2b90f80f1e9f.png" />
 <img align="left" alt="Git" title="Git" width="26px" src="https://user-images.githubusercontent.com/27690717/165401597-30d07762-d52b-4697-bbbf-79a0c8082cb5.png" />
 <img align="left" alt="Atom" title="Atom" width="26px" src="https://user-images.githubusercontent.com/27690717/165403951-e7f31325-6b36-4e76-9ce2-432142b0b3b0.png" />
-<img align="left" alt="Photoshop" title="Photoshop" width="26px" src="https://user-images.githubusercontent.com/27690717/165407869-b475f554-afe6-4987-a182-efa4654ba231.png" />
-<img align="left" alt="InDesign" title="InDesign" width="26px" src="https://user-images.githubusercontent.com/27690717/165407926-072dbd2a-ba0e-4ad6-92ea-5b7437acee31.png" />
+<img align="left" alt="Photoshop" title="Adobe Photoshop" width="26px" src="https://user-images.githubusercontent.com/27690717/165407869-b475f554-afe6-4987-a182-efa4654ba231.png" />
+<img align="left" alt="InDesign" title="Adobe InDesign" width="26px" src="https://user-images.githubusercontent.com/27690717/165407926-072dbd2a-ba0e-4ad6-92ea-5b7437acee31.png" />
 <img align="left" alt="Terminal" title="Terminal" width="26px" src="https://user-images.githubusercontent.com/27690717/165402531-d97eef56-ccd5-44c0-849c-a9abd14c99bb.png" />
 <img align="left" alt="macOS" title="macOS" width="26px" src="https://user-images.githubusercontent.com/27690717/165397260-a7462ff1-dfd9-49c4-bc4d-581e5765224c.png" />
 <img align="left" alt="Windows" title="Windows" width="26px" src="https://user-images.githubusercontent.com/27690717/165398060-e8ed5f5f-95df-4d08-b889-c316881a6525.png" />
