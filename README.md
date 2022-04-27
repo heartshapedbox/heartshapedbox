@@ -7,7 +7,7 @@ Interested in digital art, design and coding.
 [<img align="left" alt="Gmail" title="Gmail" width="26px" src="https://user-images.githubusercontent.com/27690717/165525918-f386181f-69a9-4c3b-943f-96695b1b7f61.png" />][gmail]
 [<img align="left" alt="LinkedIn" title="LinkedIn" width="26px" src="https://user-images.githubusercontent.com/27690717/165527152-14c49758-c6a6-4ba6-bb92-f16201888fa5.png" />][linkedin]
 [<img align="left" alt="GitHub" title="GitHub" width="26px" src="https://user-images.githubusercontent.com/27690717/165527049-3cb708f2-47eb-45eb-be09-0b1c004e90e8.png" />][github]
-[<img align="left" alt="Twitter" title="Twitter" width="26px" src="https://user-images.githubusercontent.com/27690717/165526543-73507ee3-103d-40e4-a85b-0e51b7031e10.png" />][twitter]
+[<img align="left" alt="Twitter" title="Twitter" width="26px" src="https://user-images.githubusercontent.com/27690717/165530791-cb5ac5fb-971c-4211-89b6-9ecde092c8b9.png" />][twitter]
 [<img align="left" alt="Telegram" title="Telegram" width="26px" src="https://user-images.githubusercontent.com/27690717/165527901-17c517d0-d0f2-4d22-bd6c-1612b10ad85a.png" />][telegram]
 
 [gmail]: mailto:babenko.dmitry.mail@gmail.com
