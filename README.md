@@ -29,7 +29,7 @@ Interested in digital art, design and coding.
 ![heartshapedbox GitHub stats](https://github-readme-stats.vercel.app/api?username=heartshapedbox&custom_title=GitHubStats&show_icons=true&theme=tokyonight&bg_color=110,0d1117,1a1b27&hide_border=true)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heartshapedbox&layout=compact&theme=tokyonight&bg_color=110,0d1117,1a1b27&hide_border=true)
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/heartshapedbox/python?color=0e9594&label=python%3A%20commits&logo=python&logoColor=0e9594&style=plastic)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/heartshapedbox/python?color=0e9594&label=python%3A%20commits&logo=python&logoColor=white&style=plastic)
 
 ----
 
