@@ -31,7 +31,7 @@ Interested in digital art, design and coding.
 
 ----
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/heartshapedbox/python?color=orange)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/heartshapedbox/python?color=cyan&label=python%3A%20commits&logo=python)
 
 ----
 
