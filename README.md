@@ -1,4 +1,4 @@
-### Digital art / Web design / Code
+### Digital art / Design / Code
 Interested in digital art, design and coding. 
 
 --------------------------------------------------------
