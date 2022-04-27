@@ -18,14 +18,12 @@
 [dribble]: https://dribbble.com/dmitrybabenko
 <br />
 ----
-
 ### GitHub Stats
 ![heartshapedbox GitHub stats](https://github-readme-stats.vercel.app/api?username=heartshapedbox&custom_title=GitHubStats&show_icons=true&theme=tokyonight&bg_color=110,0d1117,1a1b27&hide_border=true)![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heartshapedbox&layout=compact&theme=tokyonight&bg_color=110,0d1117,1a1b27&hide_border=true)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/heartshapedbox/python?color=green&label=python%3A%20commits&logo=python&logoColor=white&style=plastic)
 <br />
 ----
-
 ### Languages and Tools
 <img align="left" alt="HTML" title="HTML" width="26px" src="https://user-images.githubusercontent.com/27690717/165400714-38f3eb60-5189-4163-9431-41eb906c1be6.png" />
 <img align="left" alt="CSS" title="CSS" width="26px" src="https://user-images.githubusercontent.com/27690717/165400718-7aa854fc-22c0-46f8-8d5f-cf8e7fc3d2d1.png" />
