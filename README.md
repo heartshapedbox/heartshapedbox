@@ -4,7 +4,7 @@ Interested in digital art, design and coding.
 --------------------------------------------------------
 
 ### Connect with me
-[<img align="left" alt="Gmail" title="Gmail" width="22px" src="https://user-images.githubusercontent.com/27690717/165406796-e223c17a-1d76-4143-82f8-4761a29ac700.svg" />][gmail]
+[<img align="left" alt="Gmail" title="Gmail" width="22px" src="https://user-images.githubusercontent.com/27690717/165525918-f386181f-69a9-4c3b-943f-96695b1b7f61.png" />][gmail]
 [<img align="left" alt="LinkedIn" title="LinkedIn" width="22px" src="https://user-images.githubusercontent.com/27690717/165407206-9b014a17-1fec-4fc4-a6ed-29e4995fd4c1.svg" />][linkedin]
 [<img align="left" alt="GitHub" title="GitHub" width="22px" src="https://user-images.githubusercontent.com/27690717/165406689-a0b95749-585d-4354-a2dd-74a1f4521aed.svg" />][github]
 [<img align="left" alt="Twitter" title="Twitter" width="22px" src="https://user-images.githubusercontent.com/27690717/165525790-c2ac07a3-105e-462a-9c7e-e157495270fa.png" />][twitter]
