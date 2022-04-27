@@ -46,6 +46,9 @@ Interested in digital art, design and coding.
 <img align="left" alt="macOS" title="macOS" width="26px" src="https://user-images.githubusercontent.com/27690717/165397260-a7462ff1-dfd9-49c4-bc4d-581e5765224c.png" />
 <img align="left" alt="Windows" title="Windows" width="26px" src="https://user-images.githubusercontent.com/27690717/165530945-512e8258-a13f-4f65-8ce3-ad673858de8e.png" />
 
+img:hover {
+  background-color: yellow;
+}
 <!---
 heartshapedbox/heartshapedbox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
