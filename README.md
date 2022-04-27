@@ -9,12 +9,18 @@ Interested in digital art, design and coding.
 [<img align="left" alt="GitHub" title="GitHub" width="26px" src="https://user-images.githubusercontent.com/27690717/165533688-74e3a378-c77f-4b6b-b315-c84794cb0357.png" />][github]
 [<img align="left" alt="Twitter" title="Twitter" width="26px" src="https://user-images.githubusercontent.com/27690717/165530791-cb5ac5fb-971c-4211-89b6-9ecde092c8b9.png" />][twitter]
 [<img align="left" alt="Telegram" title="Telegram" width="26px" src="https://user-images.githubusercontent.com/27690717/165527901-17c517d0-d0f2-4d22-bd6c-1612b10ad85a.png" />][telegram]
+[<img align="left" alt="Skype" title="Skype" width="26px" src="https://user-images.githubusercontent.com/27690717/165527901-17c517d0-d0f2-4d22-bd6c-1612b10ad85a.png" />][skype]
+[<img align="left" alt="Telegram" title="Telegram" width="26px" src="https://user-images.githubusercontent.com/27690717/165527901-17c517d0-d0f2-4d22-bd6c-1612b10ad85a.png" />][telegram]
+[<img align="left" alt="Telegram" title="Telegram" width="26px" src="https://user-images.githubusercontent.com/27690717/165527901-17c517d0-d0f2-4d22-bd6c-1612b10ad85a.png" />][telegram]
+[<img align="left" alt="Telegram" title="Telegram" width="26px" src="https://user-images.githubusercontent.com/27690717/165527901-17c517d0-d0f2-4d22-bd6c-1612b10ad85a.png" />][telegram]
+[<img align="left" alt="Telegram" title="Telegram" width="26px" src="https://user-images.githubusercontent.com/27690717/165527901-17c517d0-d0f2-4d22-bd6c-1612b10ad85a.png" />][telegram]
 
 [gmail]: mailto:babenko.dmitry.mail@gmail.com
 [linkedin]: https://www.linkedin.com/in/dmitry-babenko-%F0%9F%87%BA%F0%9F%87%A6-6aab3b168
 [github]: https://github.com/heartshapedbox
 [twitter]: https://twitter.com/BabenkoDmitry
 [telegram]: https://t.me/BabenkoDmitry
+[skype]: https://join.skype.com/invite/ahRruuzbYjx6
 
 <br />
 
