@@ -33,8 +33,8 @@
 <img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://user-images.githubusercontent.com/27690717/165400083-a38f99ae-7029-423b-a49f-4f3001d596bd.png" />
 <img align="left" alt="Python" title="Python" width="26px" src="https://user-images.githubusercontent.com/27690717/165398445-11f2293b-8b2e-403b-86ef-85d95152905f.png" />
 
-<br />
 ----
+
 ### Tools
 <img align="left" alt="GitHub" title="GitHub" width="26px" src="https://user-images.githubusercontent.com/27690717/165397681-55acb06c-1d02-4922-87ff-2b90f80f1e9f.png" />
 <img align="left" alt="Git" title="Git" width="26px" src="https://user-images.githubusercontent.com/27690717/165401597-30d07762-d52b-4697-bbbf-79a0c8082cb5.png" />
