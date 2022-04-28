@@ -7,17 +7,6 @@
 [<img align="left" alt="GitHub" title="GitHub" width="26px" src="https://user-images.githubusercontent.com/27690717/165533688-74e3a378-c77f-4b6b-b315-c84794cb0357.png" />][github]
 [<img align="left" alt="Pinteret" title="Pinteret" width="26px" src="https://user-images.githubusercontent.com/27690717/165534992-43eee375-af42-497a-bfc2-658b2992e029.png" />][pinteret]
 [<img align="left" alt="Dribble" title="Dribble" width="26px" src="https://user-images.githubusercontent.com/27690717/165535579-9fa81109-d73a-465d-b7e9-a1a3cb092a96.png" />][dribble]
-
-<br />
-
-[gmail]: mailto:babenko.dmitry.mail@gmail.com
-[linkedin]: https://www.linkedin.com/in/dmitry-babenko-%F0%9F%87%BA%F0%9F%87%A6-6aab3b168
-[github]: https://github.com/heartshapedbox
-[twitter]: https://twitter.com/BabenkoDmitry
-[telegram]: https://t.me/BabenkoDmitry
-[skype]: https://join.skype.com/invite/ahRruuzbYjx6
-[pinteret]: https://pin.it/5VXs2m9
-[dribble]: https://dribbble.com/dmitrybabenko
 <br />
 ----
 ### GitHub Stats
@@ -42,6 +31,16 @@
 <img align="left" alt="Terminal" title="Terminal" width="26px" src="https://user-images.githubusercontent.com/27690717/165402531-d97eef56-ccd5-44c0-849c-a9abd14c99bb.png" />
 <img align="left" alt="macOS" title="macOS" width="26px" src="https://user-images.githubusercontent.com/27690717/165397260-a7462ff1-dfd9-49c4-bc4d-581e5765224c.png" />
 <img align="left" alt="Windows" title="Windows" width="26px" src="https://user-images.githubusercontent.com/27690717/165530945-512e8258-a13f-4f65-8ce3-ad673858de8e.png" />
+<br />
+
+[gmail]: mailto:babenko.dmitry.mail@gmail.com
+[linkedin]: https://www.linkedin.com/in/dmitry-babenko-%F0%9F%87%BA%F0%9F%87%A6-6aab3b168
+[github]: https://github.com/heartshapedbox
+[twitter]: https://twitter.com/BabenkoDmitry
+[telegram]: https://t.me/BabenkoDmitry
+[skype]: https://join.skype.com/invite/ahRruuzbYjx6
+[pinteret]: https://pin.it/5VXs2m9
+[dribble]: https://dribbble.com/dmitrybabenko
 
 <!---
 heartshapedbox/heartshapedbox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
