@@ -28,9 +28,7 @@
 <img align="left" alt="HTML" title="HTML" width="26px" src="https://user-images.githubusercontent.com/27690717/165400714-38f3eb60-5189-4163-9431-41eb906c1be6.png" />
 <img align="left" alt="CSS" title="CSS" width="26px" src="https://user-images.githubusercontent.com/27690717/165400718-7aa854fc-22c0-46f8-8d5f-cf8e7fc3d2d1.png" />
 <img align="left" alt="Less" title="Less" width="26px" src="https://user-images.githubusercontent.com/27690717/165625143-9d2424b5-d6a2-4507-8c09-62ad12b85a67.png" />
-<
-<
-<
+<br />
 <img align="left" alt="Sass" title="Sass" width="26px" src="https://user-images.githubusercontent.com/27690717/165633214-171ccb00-5694-4042-bad4-b93de7f36caa.png" />
 <img align="left" alt="CoffeeScript" title="CoffeeScript" width="26px" src="https://user-images.githubusercontent.com/27690717/165746539-453f43cb-ffd6-4454-a1eb-92d9bb6180d1.png" />
 <img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://user-images.githubusercontent.com/27690717/165400083-a38f99ae-7029-423b-a49f-4f3001d596bd.png" />
