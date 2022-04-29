@@ -13,6 +13,7 @@
 ![heartshapedbox GitHub stats](https://github-readme-stats.vercel.app/api?username=heartshapedbox&custom_title=GitHubStats&show_icons=true&theme=tokyonight&bg_color=110,0d1117,1a1b27&hide_border=true)![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heartshapedbox&layout=compact&theme=tokyonight&bg_color=110,0d1117,1a1b27&hide_border=true)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/heartshapedbox/python?color=8338ec&label=commits&logo=python&logoColor=white)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/heartshapedbox/html-css-js?color=8338ec&label=commits&logo=javascript&logoColor=y)
 <br />
 ----
 ### Languages and Tools
