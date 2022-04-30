@@ -1,26 +1,11 @@
-### Connect with me
-[<img align="left" alt="Gmail" title="Gmail" width="26px" src="https://user-images.githubusercontent.com/27690717/165532326-df1f6d81-3c04-48fe-9f2c-3ee0cf8d411a.png" />][gmail]
-[<img align="left" alt="LinkedIn" title="LinkedIn" width="26px" src="https://user-images.githubusercontent.com/27690717/165531718-eaa257d6-c292-40e5-8371-67044869c899.png" />][linkedin]
-[<img align="left" alt="Twitter" title="Twitter" width="26px" src="https://user-images.githubusercontent.com/27690717/165530791-cb5ac5fb-971c-4211-89b6-9ecde092c8b9.png" />][twitter]
-[<img align="left" alt="Telegram" title="Telegram" width="26px" src="https://user-images.githubusercontent.com/27690717/165527901-17c517d0-d0f2-4d22-bd6c-1612b10ad85a.png" />][telegram]
-[<img align="left" alt="Skype" title="Skype" width="26px" src="https://user-images.githubusercontent.com/27690717/165636854-58f6784f-bb26-4c15-a254-a232d072d8f0.png" />][skype]
-[<img align="left" alt="GitHub" title="GitHub" width="26px" src="https://user-images.githubusercontent.com/27690717/165533688-74e3a378-c77f-4b6b-b315-c84794cb0357.png" />][github]
-[<img align="left" alt="Dribble" title="Dribble" width="26px" src="https://user-images.githubusercontent.com/27690717/165535579-9fa81109-d73a-465d-b7e9-a1a3cb092a96.png" />][dribble]
-[<img align="left" alt="Pinteret" title="Pinteret" width="26px" src="https://user-images.githubusercontent.com/27690717/165534992-43eee375-af42-497a-bfc2-658b2992e029.png" />][pinteret]
-<br />
-<br />
-![GitHub User's stars](https://img.shields.io/github/stars/heartshapedbox?logo=github&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/heartshapedbox?logo=github&style=flat-square)
-![Twitter Follow](https://img.shields.io/twitter/follow/babenkodmitry?color=blue&logo=twitter&style=flat-square)
-<br />
-----
 ### GitHub Stats
 ![heartshapedbox GitHub stats](https://github-readme-stats.vercel.app/api?username=heartshapedbox&custom_title=GitHubStats&show_icons=true&theme=tokyonight&bg_color=110,0d1117,1a1b27&hide_border=true)![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heartshapedbox&layout=compact&theme=tokyonight&bg_color=110,0d1117,1a1b27&hide_border=true)
 <br />
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/heartshapedbox/python?color=5955E8&label=commits&logo=python&logoColor=d4d9ff)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/heartshapedbox/html-css-js?color=5955E8&label=commits&logo=javascript&logoColor=fede00)
 <br />
-----
+<br />
+
 ### Languages and Tools
 <img align="left" alt="HTML" title="HTML" width="26px" src="https://user-images.githubusercontent.com/27690717/165400714-38f3eb60-5189-4163-9431-41eb906c1be6.png" />
 <img align="left" alt="CSS" title="CSS" width="26px" src="https://user-images.githubusercontent.com/27690717/165400718-7aa854fc-22c0-46f8-8d5f-cf8e7fc3d2d1.png" />
@@ -38,6 +23,26 @@
 <img align="left" alt="Terminal" title="Terminal" width="26px" src="https://user-images.githubusercontent.com/27690717/165402531-d97eef56-ccd5-44c0-849c-a9abd14c99bb.png" />
 <img align="left" alt="macOS" title="macOS" width="26px" src="https://user-images.githubusercontent.com/27690717/165397260-a7462ff1-dfd9-49c4-bc4d-581e5765224c.png" />
 <img align="left" alt="Windows" title="Windows" width="26px" src="https://user-images.githubusercontent.com/27690717/165530945-512e8258-a13f-4f65-8ce3-ad673858de8e.png" />
+<br />
+<br />
+<br />
+
+### Connect with me
+
+[<img align="left" alt="Gmail" title="Gmail" width="26px" src="https://user-images.githubusercontent.com/27690717/165532326-df1f6d81-3c04-48fe-9f2c-3ee0cf8d411a.png" />][gmail]
+[<img align="left" alt="LinkedIn" title="LinkedIn" width="26px" src="https://user-images.githubusercontent.com/27690717/165531718-eaa257d6-c292-40e5-8371-67044869c899.png" />][linkedin]
+[<img align="left" alt="Twitter" title="Twitter" width="26px" src="https://user-images.githubusercontent.com/27690717/165530791-cb5ac5fb-971c-4211-89b6-9ecde092c8b9.png" />][twitter]
+[<img align="left" alt="Telegram" title="Telegram" width="26px" src="https://user-images.githubusercontent.com/27690717/165527901-17c517d0-d0f2-4d22-bd6c-1612b10ad85a.png" />][telegram]
+[<img align="left" alt="Skype" title="Skype" width="26px" src="https://user-images.githubusercontent.com/27690717/165636854-58f6784f-bb26-4c15-a254-a232d072d8f0.png" />][skype]
+[<img align="left" alt="GitHub" title="GitHub" width="26px" src="https://user-images.githubusercontent.com/27690717/165533688-74e3a378-c77f-4b6b-b315-c84794cb0357.png" />][github]
+[<img align="left" alt="Dribble" title="Dribble" width="26px" src="https://user-images.githubusercontent.com/27690717/165535579-9fa81109-d73a-465d-b7e9-a1a3cb092a96.png" />][dribble]
+[<img align="left" alt="Pinteret" title="Pinteret" width="26px" src="https://user-images.githubusercontent.com/27690717/165534992-43eee375-af42-497a-bfc2-658b2992e029.png" />][pinteret]
+<br />
+
+![GitHub User's stars](https://img.shields.io/github/stars/heartshapedbox?logo=github&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/heartshapedbox?logo=github&style=flat-square)
+![Twitter Follow](https://img.shields.io/twitter/follow/babenkodmitry?color=blue&logo=twitter&style=flat-square)
+
 <br />
 
 [gmail]: mailto:babenko.dmitry.mail@gmail.com
