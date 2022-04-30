@@ -8,6 +8,11 @@
 [<img align="left" alt="Dribble" title="Dribble" width="26px" src="https://user-images.githubusercontent.com/27690717/165535579-9fa81109-d73a-465d-b7e9-a1a3cb092a96.png" />][dribble]
 [<img align="left" alt="Pinteret" title="Pinteret" width="26px" src="https://user-images.githubusercontent.com/27690717/165534992-43eee375-af42-497a-bfc2-658b2992e029.png" />][pinteret]
 <br />
+<br />
+![GitHub User's stars](https://img.shields.io/github/stars/heartshapedbox?logo=github&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/heartshapedbox?logo=github&style=flat-square)
+![Twitter Follow](https://img.shields.io/twitter/follow/babenkodmitry?color=blue&logo=twitter&style=flat-square)
+<br />
 ----
 ### GitHub Stats
 ![heartshapedbox GitHub stats](https://github-readme-stats.vercel.app/api?username=heartshapedbox&custom_title=GitHubStats&show_icons=true&theme=tokyonight&bg_color=110,0d1117,1a1b27&hide_border=true)![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heartshapedbox&layout=compact&theme=tokyonight&bg_color=110,0d1117,1a1b27&hide_border=true)
