@@ -39,9 +39,9 @@
 [<img align="left" alt="Pinteret" title="Pinteret" width="26px" src="https://user-images.githubusercontent.com/27690717/165534992-43eee375-af42-497a-bfc2-658b2992e029.png" />][pinteret]
 <br />
 
+![Twitter Follow](https://img.shields.io/twitter/follow/babenkodmitry?color=blue&logo=twitter&style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/heartshapedbox?label=stars%20earned&logo=github&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/heartshapedbox?logo=github&style=flat-square)
-![Twitter Follow](https://img.shields.io/twitter/follow/babenkodmitry?color=blue&logo=twitter&style=flat-square)
 
 <br />
 
