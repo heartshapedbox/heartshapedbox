@@ -1,5 +1,5 @@
 ### GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heartshapedbox&theme=tokyonight_duo&custom_title="GitHubStats"&background=0d1117&fire=magenta&hide_border=true&stroke=0d1117)](https://github.com/heartshapedbox/heartshapedbox)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heartshapedbox&theme=tokyonight_duo&custom_title="GitHubStats"&background=0d1117&fire=cyan&hide_border=true&stroke=0d1117)](https://github.com/heartshapedbox/heartshapedbox)
 [![heartshapedbox GitHub stats](https://github-readme-stats.vercel.app/api?username=heartshapedbox&custom_title=&show_icons=true&theme=tokyonight&bg_color=110,0d1117,1a1b27&hide_border=true)](https://github.com/heartshapedbox/heartshapedbox)[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heartshapedbox&layout=compact&theme=tokyonight&bg_color=110,0d1117,1a1b27&hide_border=true)](https://github.com/heartshapedbox/heartshapedbox)
 <br />
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/heartshapedbox/python?color=5955E8&label=python%20rep.%20commits&logo=python&logoColor=d4d9ff)
