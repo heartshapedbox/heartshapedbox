@@ -38,10 +38,10 @@
 [<img align="left" alt="Dribble" title="Dribble" width="26px" src="https://user-images.githubusercontent.com/27690717/165535579-9fa81109-d73a-465d-b7e9-a1a3cb092a96.png" />][dribble]
 [<img align="left" alt="Pinteret" title="Pinteret" width="26px" src="https://user-images.githubusercontent.com/27690717/165534992-43eee375-af42-497a-bfc2-658b2992e029.png" />][pinteret]
 <br />
-
-![Twitter Follow](https://img.shields.io/twitter/follow/babenkodmitry?color=blue&logo=twitter&style=flat-square)
-![GitHub User's stars](https://img.shields.io/github/stars/heartshapedbox?label=stars%20earned&logo=github&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/heartshapedbox?logo=github&style=flat-square)
+<br />
+![Twitter Follow](https://img.shields.io/twitter/follow/babenkodmitry?color=blue&logo=twitter&style=flat)
+![GitHub User's stars](https://img.shields.io/github/stars/heartshapedbox?label=stars%20earned&logo=github&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/heartshapedbox?logo=github&style=flat)
 
 <br />
 
