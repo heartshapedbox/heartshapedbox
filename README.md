@@ -2,8 +2,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heartshapedbox&theme=tokyonight_duo&background=0d1117&fire=cyan&hide_border=true&stroke=0d1117)](https://github.com/heartshapedbox/heartshapedbox)
 [![heartshapedbox GitHub stats](https://github-readme-stats.vercel.app/api?username=heartshapedbox&hide_title=true&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true)](https://github.com/heartshapedbox/heartshapedbox)[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heartshapedbox&hide_title=true&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true)](https://github.com/heartshapedbox/heartshapedbox)
 <br />
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/heartshapedbox/python?color=5955E8&label=python%20rep.%20commits&logo=python&logoColor=d4d9ff&labelColor=black)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/heartshapedbox/html-css-js?color=5955E8&label=html-css-js%20rep.%20commits&logo=javascript&logoColor=fede00&labelColor=black)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/heartshapedbox/python?color=5955E8&label=python%20rep.%20commits&logo=python&logoColor=d4d9ff)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/heartshapedbox/html-css-js?color=5955E8&label=html-css-js%20rep.%20commits&logo=javascript&logoColor=fede00)
 <br />
 <br />
 <br />
@@ -44,19 +44,19 @@
 [<img align="left" alt="Bookmate" title="Bookmate" width="26px" src="https://user-images.githubusercontent.com/27690717/166451262-c86cdeda-ac85-48ad-9cb0-0ec762e1e907.png" />][bookmate]
 <br />
 <br />
-![Twitter Follow](https://img.shields.io/twitter/follow/babenkodmitry?&label=followers&color=1da1f2&logo=twitter&logoColor=white&labelColor=black&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/heartshapedbox?color=5955E8&logo=github&labelColor=black&style=flat)
-![GitHub User's stars](https://img.shields.io/github/stars/heartshapedbox?color=5955E8&label=stars%20earned&logo=github&labelColor=black&style=flat)
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/affectionate-east935?color=FF4500&label=karma&logo=reddit&labelColor=black&logoColor=white)
+![Twitter Follow](https://img.shields.io/twitter/follow/babenkodmitry?&label=followers&color=1da1f2&logo=twitter&logoColor=white&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/heartshapedbox?color=5955E8&logo=github&style=flat)
+![GitHub User's stars](https://img.shields.io/github/stars/heartshapedbox?color=5955E8&label=stars%20earned&logo=github&style=flat)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/affectionate-east935?color=FF4500&label=karma&logo=reddit&logoColor=white)
 <br />
-[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/python?color=FF4500&logo=reddit&labelColor=black&logoColor=white)][python]
-[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/pythontips?color=FF4500&logo=reddit&labelColor=black&logoColor=white)][pythontips]
-[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/javascript?color=FF4500&logo=reddit&labelColor=black&logoColor=white)][javascript]
+[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/python?color=FF4500&logo=reddit&logoColor=white)][python]
+[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/pythontips?color=FF4500&logo=reddit&logoColor=white)][pythontips]
+[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/javascript?color=FF4500&logo=reddit&logoColor=white)][javascript]
 <br />
-[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/digitalpainting?color=FF4500&logo=reddit&labelColor=black&logoColor=white)][digitalpainting]
-[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/digitalart?color=FF4500&logo=reddit&labelColor=black&logoColor=white)][digitalart]
-[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/astronomy?color=FF4500&logo=reddit&labelColor=black&logoColor=white)][astronomy]
-[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/books?color=FF4500&logo=reddit&labelColor=black&logoColor=white)][books]
+[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/digitalpainting?color=FF4500&logo=reddit&logoColor=white)][digitalpainting]
+[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/digitalart?color=FF4500&logo=reddit&logoColor=white)][digitalart]
+[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/astronomy?color=FF4500&logo=reddit&logoColor=white)][astronomy]
+[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/books?color=FF4500&logo=reddit&logoColor=white)][books]
 <br />
 
 
