@@ -49,15 +49,6 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/heartshapedbox?color=5955E8&label=stars%20earned&logo=github&style=flat)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/affectionate-east935?color=FF4500&label=karma&logo=reddit&logoColor=white)
 <br />
-[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/python?color=FF4500&logo=reddit&logoColor=white)][python]
-[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/pythontips?color=FF4500&logo=reddit&logoColor=white)][pythontips]
-[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/javascript?color=FF4500&logo=reddit&logoColor=white)][javascript]
-<br />
-[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/digitalpainting?color=FF4500&logo=reddit&logoColor=white)][digitalpainting]
-[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/digitalart?color=FF4500&logo=reddit&logoColor=white)][digitalart]
-[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/astronomy?color=FF4500&logo=reddit&logoColor=white)][astronomy]
-[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/books?color=FF4500&logo=reddit&logoColor=white)][books]
-<br />
 
 
 [gmail]: mailto:babenko.dmitry.mail@gmail.com
