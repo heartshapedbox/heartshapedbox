@@ -7,7 +7,6 @@
 <br />
 <br />
 <br />
-<br />
 
 ### Languages and Tools
 <img align="left" alt="HTML" title="HTML" width="26px" src="https://user-images.githubusercontent.com/27690717/165400714-38f3eb60-5189-4163-9431-41eb906c1be6.png" />
@@ -28,7 +27,6 @@
 <img align="left" alt="macOS" title="macOS" width="26px" src="https://user-images.githubusercontent.com/27690717/165397260-a7462ff1-dfd9-49c4-bc4d-581e5765224c.png" />
 <img align="left" alt="Windows" title="Windows" width="26px" src="https://user-images.githubusercontent.com/27690717/165530945-512e8258-a13f-4f65-8ce3-ad673858de8e.png" />
 <img align="left" alt="DigitalOcean" title="DigitalOcean" width="26px" src="https://user-images.githubusercontent.com/27690717/166452689-1240016f-aa5d-4426-b11b-ac33ea227d84.png" />
-<br />
 <br />
 <br />
 <br />
