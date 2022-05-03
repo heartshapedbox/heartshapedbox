@@ -45,9 +45,9 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/heartshapedbox?color=5955E8&label=stars%20earned&logo=github&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/heartshapedbox?color=5955E8&logo=github&style=flat)
 <br />
-![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/digitalpainting?color=FF4500&logo=reddit&logoColor=FF4500)
-![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/digitalart?color=FF4500&logo=reddit&logoColor=FF4500)
-![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/astronomy?color=FF4500&logo=reddit&logoColor=FF4500)
+[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/digitalpainting?color=FF4500&logo=reddit&logoColor=FF4500)][digitalpainting]
+[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/digitalart?color=FF4500&logo=reddit&logoColor=FF4500)][digitalart]
+[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/astronomy?color=FF4500&logo=reddit&logoColor=FF4500)][astronomy]
 <br />
 
 [gmail]: mailto:babenko.dmitry.mail@gmail.com
@@ -59,6 +59,9 @@
 [pinteret]: https://pin.it/5VXs2m9
 [dribble]: https://dribbble.com/dmitrybabenko
 [reddit]: https://www.reddit.com/user/Affectionate-East935
+[digitalpainting]:https://www.reddit.com/r/DigitalPainting/
+[digitalart]:https://www.reddit.com/r/DigitalArt/
+[astronomy]:https://www.reddit.com/r/Astronomy/
 
 <!---
 heartshapedbox/heartshapedbox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
