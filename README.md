@@ -48,11 +48,16 @@
 ![GitHub followers](https://img.shields.io/github/followers/heartshapedbox?color=5955E8&logo=github&style=flat)
 ![GitHub User's stars](https://img.shields.io/github/stars/heartshapedbox?color=5955E8&label=stars%20earned&logo=github&style=flat)
 <br />
+[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/python?color=FF4500&logo=reddit&logoColor=white)][python]
+[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/pythontips?color=FF4500&logo=reddit&logoColor=white)][pythontips]
+[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/javascript?color=FF4500&logo=reddit&logoColor=white)][javascript]
+<br />
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/digitalpainting?color=FF4500&logo=reddit&logoColor=white)][digitalpainting]
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/digitalart?color=FF4500&logo=reddit&logoColor=white)][digitalart]
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/astronomy?color=FF4500&logo=reddit&logoColor=white)][astronomy]
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/books?color=FF4500&logo=reddit&logoColor=white)][books]
 <br />
+
 
 [gmail]: mailto:babenko.dmitry.mail@gmail.com
 [linkedin]: https://www.linkedin.com/in/dmitry-babenko-%F0%9F%87%BA%F0%9F%87%A6-6aab3b168
@@ -67,6 +72,9 @@
 [digitalart]:https://www.reddit.com/r/DigitalArt/
 [astronomy]:https://www.reddit.com/r/Astronomy/
 [books]:https://www.reddit.com/r/books/
+[pythontips]:https://www.reddit.com/r/pythontips/
+[python]:https://www.reddit.com/r/Python/
+[javascript]:https://www.reddit.com/r/javascript/
 [bookmate]: https://bookmate.com/@babenkodmitry
 
 <!---
