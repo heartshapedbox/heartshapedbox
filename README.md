@@ -6,6 +6,8 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/heartshapedbox/html-css-js?color=5955E8&label=html-css-js%20rep.%20commits&logo=javascript&logoColor=fede00&labelColor=0d1117)
 <br />
 <br />
+<br />
+<br />
 
 ### Languages and Tools
 <img align="left" alt="HTML" title="HTML" width="26px" src="https://user-images.githubusercontent.com/27690717/165400714-38f3eb60-5189-4163-9431-41eb906c1be6.png" />
@@ -29,9 +31,9 @@
 <br />
 <br />
 <br />
+<br />
 
 ### Connect with me
-
 [<img align="left" alt="Gmail" title="Gmail" width="26px" src="https://user-images.githubusercontent.com/27690717/165532326-df1f6d81-3c04-48fe-9f2c-3ee0cf8d411a.png" />][gmail]
 [<img align="left" alt="LinkedIn" title="LinkedIn" width="26px" src="https://user-images.githubusercontent.com/27690717/165531718-eaa257d6-c292-40e5-8371-67044869c899.png" />][linkedin]
 [<img align="left" alt="Twitter" title="Twitter" width="26px" src="https://user-images.githubusercontent.com/27690717/165530791-cb5ac5fb-971c-4211-89b6-9ecde092c8b9.png" />][twitter]
