@@ -38,12 +38,16 @@
 [<img align="left" alt="GitHub" title="GitHub" width="26px" src="https://user-images.githubusercontent.com/27690717/165533688-74e3a378-c77f-4b6b-b315-c84794cb0357.png" />][github]
 [<img align="left" alt="Dribble" title="Dribble" width="26px" src="https://user-images.githubusercontent.com/27690717/165535579-9fa81109-d73a-465d-b7e9-a1a3cb092a96.png" />][dribble]
 [<img align="left" alt="Pinteret" title="Pinteret" width="26px" src="https://user-images.githubusercontent.com/27690717/165534992-43eee375-af42-497a-bfc2-658b2992e029.png" />][pinteret]
+[<img align="left" alt="Reddit" title="Reddit" width="26px" src="https://user-images.githubusercontent.com/27690717/166446684-9e664700-7769-45f1-82fa-4b28f35a6818.png" />][reddit]
 <br />
 
-![Twitter Follow](https://img.shields.io/twitter/follow/babenkodmitry?&label=followers&color=1da1f2&logo=twitter&style=flat)
+![Twitter Follow](https://img.shields.io/twitter/follow/babenkodmitry?&label=followers&color=1da1f2&logo=twitter&logoColor=white&style=flat)
 ![GitHub User's stars](https://img.shields.io/github/stars/heartshapedbox?color=5955E8&label=stars%20earned&logo=github&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/heartshapedbox?color=5955E8&logo=github&style=flat)
-
+<br />
+![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/digitalpainting?color=FF4500&logo=reddit&logoColor=FF4500)
+![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/digitalart?color=FF4500&logo=reddit&logoColor=FF4500)
+![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/astronomy?color=FF4500&logo=reddit&logoColor=FF4500)
 <br />
 
 [gmail]: mailto:babenko.dmitry.mail@gmail.com
@@ -54,6 +58,7 @@
 [skype]: https://join.skype.com/invite/ahRruuzbYjx6
 [pinteret]: https://pin.it/5VXs2m9
 [dribble]: https://dribbble.com/dmitrybabenko
+[reddit]: https://www.reddit.com/user/Affectionate-East935
 
 <!---
 heartshapedbox/heartshapedbox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
