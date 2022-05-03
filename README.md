@@ -47,6 +47,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/babenkodmitry?&label=followers&color=1da1f2&logo=twitter&logoColor=white&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/heartshapedbox?color=5955E8&logo=github&style=flat)
 ![GitHub User's stars](https://img.shields.io/github/stars/heartshapedbox?color=5955E8&label=stars%20earned&logo=github&style=flat)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/affectionate-east935?color=FF4500&label=karma&logo=reddit&logoColor=white)
 <br />
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/python?color=FF4500&logo=reddit&logoColor=white)][python]
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/pythontips?color=FF4500&logo=reddit&logoColor=white)][pythontips]
