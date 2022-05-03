@@ -49,6 +49,7 @@
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/digitalpainting?color=FF4500&logo=reddit&logoColor=FF4500)][digitalpainting]
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/digitalart?color=FF4500&logo=reddit&logoColor=FF4500)][digitalart]
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/astronomy?color=FF4500&logo=reddit&logoColor=FF4500)][astronomy]
+[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/books?color=FF4500&logo=reddit&logoColor=FF4500)][books]
 <br />
 
 [gmail]: mailto:babenko.dmitry.mail@gmail.com
@@ -63,6 +64,7 @@
 [digitalpainting]:https://www.reddit.com/r/DigitalPainting/
 [digitalart]:https://www.reddit.com/r/DigitalArt/
 [astronomy]:https://www.reddit.com/r/Astronomy/
+[books]:https://www.reddit.com/r/books/
 [bookmate]: https://bookmate.com/@babenkodmitry
 
 <!---
