@@ -2,8 +2,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heartshapedbox&theme=tokyonight_duo&background=0d1117&fire=cyan&hide_border=true&stroke=0d1117)](https://github.com/heartshapedbox/heartshapedbox)
 [![heartshapedbox GitHub stats](https://github-readme-stats.vercel.app/api?username=heartshapedbox&hide_title=true&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true)](https://github.com/heartshapedbox/heartshapedbox)[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heartshapedbox&hide_title=true&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true)](https://github.com/heartshapedbox/heartshapedbox)
 <br />
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/heartshapedbox/python?color=5955E8&label=python%20rep.%20commits&logo=python&logoColor=d4d9ff)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/heartshapedbox/html-css-js?color=5955E8&label=html-css-js%20rep.%20commits&logo=javascript&logoColor=fede00)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/heartshapedbox/python?color=5955E8&label=python%20rep.%20commits&labelColor=2b2d42&logo=python&logoColor=d4d9ff)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/heartshapedbox/html-css-js?color=5955E8&label=html-css-js%20rep.%20commits&logo=javascript&labelColor=2b2d42&logoColor=fede00)
 <br />
 <br />
 <br />
@@ -44,10 +44,10 @@
 [<img align="left" alt="Bookmate" title="Bookmate" width="26px" src="https://user-images.githubusercontent.com/27690717/166451262-c86cdeda-ac85-48ad-9cb0-0ec762e1e907.png" />][bookmate]
 <br />
 <br />
-![Twitter Follow](https://img.shields.io/twitter/follow/babenkodmitry?&label=followers&color=1da1f2&logo=twitter&logoColor=white&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/heartshapedbox?color=5955E8&logo=github&style=flat)
-![GitHub User's stars](https://img.shields.io/github/stars/heartshapedbox?color=5955E8&label=stars%20earned&logo=github&style=flat)
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/affectionate-east935?color=FF4500&label=karma&logo=reddit&logoColor=white)
+![Twitter Follow](https://img.shields.io/twitter/follow/babenkodmitry?&label=followers&color=1da1f2&logo=twitter&labelColor=2b2d42&logoColor=white&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/heartshapedbox?color=5955E8&logo=github&labelColor=2b2d42&style=flat)
+![GitHub User's stars](https://img.shields.io/github/stars/heartshapedbox?color=5955E8&label=stars%20earned&labelColor=2b2d42&logo=github&style=flat)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/affectionate-east935?color=FF4500&label=karma&labelColor=2b2d42&logo=reddit&logoColor=white)
 <br />
 <br />
 <br />
