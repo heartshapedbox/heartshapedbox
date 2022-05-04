@@ -49,6 +49,12 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/heartshapedbox?color=5955E8&label=stars%20earned&logo=github&style=flat)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/affectionate-east935?color=FF4500&label=karma&logo=reddit&logoColor=white)
 <br />
+<br />
+<br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heartshapedbox&repo=python&&hide_title=true&show_icons=true&theme=tokyonight&bg_color=100,0d1117,14213d&border_color=2b2d42)](https://github.com/heartshapedbox/html-css-js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heartshapedbox&repo=html-css-js&&hide_title=true&show_icons=true&theme=tokyonight&bg_color=100,0d1117,14213d&border_color=2b2d42)](https://github.com/heartshapedbox/html-css-js)
+
+<br />
 
 
 [gmail]: mailto:babenko.dmitry.mail@gmail.com
