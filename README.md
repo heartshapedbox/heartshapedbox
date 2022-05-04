@@ -49,7 +49,7 @@
 [pythontips]:https://www.reddit.com/r/pythontips/
 [python]:https://www.reddit.com/r/Python/
 [javascript]:https://www.reddit.com/r/javascript/
-[bookmate]: https://bookmate.com/@babenkodmitry
+[bookmate]: https://bookmate.com/@babenkodmitry/
 
 <!---
 heartshapedbox/heartshapedbox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
