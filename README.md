@@ -1,5 +1,5 @@
 ### GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heartshapedbox&theme=tokyonight_duo&background=0d1117&fire=f312c3&hide_border=true&stroke=161d28)](https://github.com/heartshapedbox/heartshapedbox)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heartshapedbox&theme=tokyonight_duo&background=0d1117&fire=violet&hide_border=true&stroke=161d28)](https://github.com/heartshapedbox/heartshapedbox)
 [![heartshapedbox GitHub stats](https://github-readme-stats.vercel.app/api?username=heartshapedbox&hide_title=true&show_icons=true&theme=tokyonight&bg_color=90,0d1117,161d28&hide_border=true)](https://github.com/heartshapedbox/heartshapedbox)[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heartshapedbox&hide_title=true&layout=compact&theme=tokyonight&bg_color=90,0d1117,161d28&hide_border=true)](https://github.com/heartshapedbox/heartshapedbox)
 <br />
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/heartshapedbox/python?color=5955E8&label=python%20rep.%20commits&logo=python&logoColor=d4d9ff) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/heartshapedbox/html-css-js?color=5955E8&label=html-css-js%20rep.%20commits&logo=javascript&logoColor=fede00)
