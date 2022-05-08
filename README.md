@@ -18,11 +18,6 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/babenkodmitry?&label=followers&color=1da1f2&logo=twitter&logoColor=white&style=flat) ![GitHub followers](https://img.shields.io/github/followers/heartshapedbox?color=5955E8&logo=github&style=flat) ![GitHub User's stars](https://img.shields.io/github/stars/heartshapedbox?color=5955E8&label=stars%20earned&logo=github&style=flat) ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/affectionate-east935?color=FF4500&label=karma&logo=reddit&logoColor=white)
 <br />
 
-<img align="left" alt="HTML" title="HTML" width="400px" src="https://user-images.githubusercontent.com/27690717/167314421-4dfa8a72-76a7-4ade-a280-0b86d37c8b94.png" />
-
-
-<br />
-
 [gmail]: mailto:babenko.dmitry.mail@gmail.com
 [linkedin]: https://www.linkedin.com/in/dmitry-babenko-%F0%9F%87%BA%F0%9F%87%A6-6aab3b168
 [github]: https://github.com/heartshapedbox
