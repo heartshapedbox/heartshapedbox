@@ -3,6 +3,8 @@
 [![heartshapedbox GitHub stats](https://github-readme-stats.vercel.app/api?username=heartshapedbox&hide_title=true&show_icons=true&theme=tokyonight&bg_color=90,0d1117,161d28&hide_border=true)](https://github.com/heartshapedbox/heartshapedbox)[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heartshapedbox&hide_title=true&layout=compact&theme=tokyonight&bg_color=90,0d1117,161d28&hide_border=true)](https://github.com/heartshapedbox/heartshapedbox)
 <br />
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/heartshapedbox/python?color=5955E8&label=python%20repository%20commits&logo=python&logoColor=d4d9ff) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/heartshapedbox/html-css-js?color=5955E8&label=%20html-css-js%20repository%20commits&logo=javascript&logoColor=fede00) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/heartshapedbox/work-icecat-content?color=5955E8&label=work-icecat-content%20repository%20commits&logo=javascript&logoColor=fede00)
+<br />
+<br />
 -
 ### Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,python,django&perline=10&theme=dark)]()
