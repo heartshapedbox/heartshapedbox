@@ -6,13 +6,12 @@
 -
 ### Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,python,django&perline=10&theme=dark)]()
-
--
+<br />
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,git,ps&perline=10theme=dark)]()
+<br />
 
--
 ### Connect with me
 [![My Skills](https://skillicons.dev/icons?i=gcp&theme=dark)](mailto:babenko.dmitry.mail@gmail.com)
 [![My Skills](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/heartshapedbox)
