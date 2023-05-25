@@ -7,9 +7,10 @@
 <br />
 -
 ### Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,python,django&perline=3&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,python,django&perline=10&theme=dark)]()
+
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,ps&perline=3theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,ps&perline=10theme=dark)]()
 <br />
 <br />
 -
