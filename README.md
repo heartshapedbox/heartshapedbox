@@ -12,8 +12,6 @@
 <br />
 ![GitHub followers](https://img.shields.io/github/followers/heartshapedbox?color=5955E8&logo=github&style=flat) ![GitHub User's stars](https://img.shields.io/github/stars/heartshapedbox?color=5955E8&label=stars%20earned&logo=github&style=flat)
 
-<br />
-
 <!---
 heartshapedbox/heartshapedbox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
