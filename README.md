@@ -7,9 +7,11 @@
 ### Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,python,django&perline=10&theme=dark)]()
 <br />
--
+<br />
+
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,git,ps&perline=10&theme=dark)]()
+<br />
 <br />
 -
 ### Connect with me
@@ -18,7 +20,7 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/dmitry-babenko-%F0%9F%87%BA%F0%9F%87%A6-6aab3b168)
 [![My Skills](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/BabenkoDmitry)
 <br />
--
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/babenkodmitry?&label=followers&color=1da1f2&logo=twitter&logoColor=white&style=flat) ![GitHub followers](https://img.shields.io/github/followers/heartshapedbox?color=5955E8&logo=github&style=flat) ![GitHub User's stars](https://img.shields.io/github/stars/heartshapedbox?color=5955E8&label=stars%20earned&logo=github&style=flat)
 <br />
 
