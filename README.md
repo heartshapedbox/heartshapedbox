@@ -9,6 +9,10 @@
 ### Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,python,django&perline=10&theme=dark)]()
 
+<br />
+<br />
+-
+
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,git,ps&perline=10theme=dark)]()
 
