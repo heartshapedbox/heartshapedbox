@@ -1,6 +1,6 @@
 ### Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heartshapedbox&theme=tokyonight_duo&background=0d1117&fire=violet&hide_border=true&stroke=161d28)](https://github.com/heartshapedbox/heartshapedbox)
-[![heartshapedbox GitHub stats](https://github-readme-stats.vercel.app/api?username=heartshapedbox&show_icons=true&hide_title=true&theme=tokyonight&bg_color=90,0d1117,161d28&hide_border=true)](https://github.com/heartshapedbox/heartshapedbox)[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heartshapedbox&hide_title=true&layout=compact&theme=tokyonight&bg_color=90,0d1117,161d28&hide_border=true)](https://github.com/heartshapedbox/heartshapedbox)
+[![heartshapedbox GitHub stats](https://github-readme-stats.vercel.app/api?username=heartshapedbox&show_icons=true&hide_title=true&theme=tokyonight&bg_color=90,0d1117,161d28&hide_border=true)](https://github.com/heartshapedbox)[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heartshapedbox&hide_title=true&layout=compact&theme=tokyonight&bg_color=90,0d1117,161d28&hide_border=true)](https://github.com/heartshapedbox/heartshapedbox)
 <br />
 <br />
 -
