@@ -1,6 +1,6 @@
 ### Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heartshapedbox&theme=tokyonight_duo&background=0d1117&stroke=0d1117&fire=orange&hide_border=true&hide_longest_streak=true&card_width=250)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=heartshapedbox&show_icons=true&hide_title=true&hide_rank=true&hide=contribs&theme=tokyonight&bg_color=90,0d1117,161d28&hide_border=true&card_width=100) ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heartshapedbox&layout=compact&hide_progress=true&theme=tokyonight&bg_color=90,0d1117,161d28&hide_border=true&card_width=100)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=heartshapedbox&show_icons=true&hide_title=true&hide_rank=true&hide=contribs&theme=tokyonight&bg_color=90,0d1117,161d28&hide_border=true&card_width=50) ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heartshapedbox&layout=compact&hide_progress=true&theme=tokyonight&bg_color=90,0d1117,161d28&hide_border=true&card_width=50)
 <br />
 <br />
 -
