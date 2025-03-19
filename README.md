@@ -3,12 +3,12 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=heartshapedbox&show_icons=true&hide_title=true&hide_rank=true&hide=contribs&theme=tokyonight&bg_color=90,0d1117,161d28&hide_border=true&card_width=250) ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heartshapedbox&layout=compact&hide_title=true&theme=tokyonight&bg_color=90,0d1117,161d28&hide_border=true&card_width=200&langs_count=5)
 <br />
 <br />
--
+
 ### Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,python,django,vscode,github,git,ps&perline=10&theme=dark)]()
 <br />
 <br />
--
+
 <br />
 
 ![GitHub followers](https://img.shields.io/github/followers/heartshapedbox?color=008080&logo=github&style=flat) ![GitHub User's stars](https://img.shields.io/github/stars/heartshapedbox?color=008080&label=stars%20earned&logo=github&style=flat)
