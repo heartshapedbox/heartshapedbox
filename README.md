@@ -5,7 +5,7 @@
 <br />
 
 ### Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,python,django,vscode,github,git,ps&perline=10&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,django,mongo,github,git,ps&perline=10&theme=dark)]()
 <br />
 <br />
 
